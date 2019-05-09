@@ -1,0 +1,102 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Hog Rider",
+      "thumbnailUrl": "https://i.imgur.com/sdR7chK.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Valkyrie",
+      "thumbnailUrl": ""
+    },
+    {
+      "id": 3,
+      "name": "Musketeer",
+      "thumbnailUrl": ""
+    },
+    {
+      "id": 4,
+      "name": "Goblins",
+      "thumbnailUrl": ""
+    },
+    {
+      "id": 5,
+      "name": "Zap",
+      "thumbnailUrl": ""
+    },
+    {
+      "id": 6,
+      "name": "Tornado",
+      "thumbnailUrl": ""
+    },
+    {
+      "id": 7,
+      "name": "Barbarians",
+      "thumbnailUrl": ""
+    },
+    {
+      "id": 8,
+      "name": "Snowball",
+      "thumbnailUrl": ""
+    }
+  ],
+  "details": [
+    {
+      "id": 1,
+      "description": "Fast Melee troop that targets buildings and can jump over the river. He followed the echoing call of 'HOG RIDERRRRR' all the way throguh the arena doors.",
+      "level": "13",
+      "type": "Troop",
+      "rarity": "Rare"
+    },
+    {
+      "id": 2,
+      "description": "Tough Melee fighter, deals area damage around her. Swarm or horde, no problem! She can take them all out with a few spins.",
+      "level": "13",
+      "type": "Troop",
+      "rarity": "Rare"
+    },
+    {
+      "id": 3,
+      "description": "Don't be fooled by her delicately coiffed hair, the Musketeer is a mean shot with her trusty boomstick.",
+      "level": "13",
+      "type": "Troop",
+      "rarity": "Rare"
+    },
+    {
+      "id": 4,
+      "description": "Three fast, unarmored melee attackers. Small, fast, green and mean!",
+      "level": "13",
+      "type": "Troop",
+      "rarity": "Common"
+    },
+    {
+      "id": 5,
+      "description": "Zaps enemies, briefly stunning them and dealing damage inside a small radius. Reduced damage to Crown Towers.",
+      "level": "13",
+      "type": "Spell",
+      "rarity": "Common"
+    },
+    {
+      "id": 6,
+      "description": "Drags enemy troops to its center while dealing damage over time, just like a magnet. A big, swirling Tornado-y magnet. Doesn't effect buildings.",
+      "level": "11",
+      "type": "Spell",
+      "rarity": "Epic"
+    },
+    {
+      "id": 7,
+      "description": "A horde of melee attackers with mean mustaches and even meaner tempers.",
+      "level": "13",
+      "type": "Troop",
+      "rarity": "Common"
+    },
+    {
+      "id": 8,
+      "description": "It's HUGE! Once it began rolling down Frozen Peak, There was no stopping it. Enemies hit are knocked back and slowed down.",
+      "level": "12",
+      "type": "Spell",
+      "rarity": "Common"
+    }
+  ]
+}
