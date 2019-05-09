@@ -4,12 +4,14 @@
       "id": 1,
       "type": "troop",
       "card": [
-        "character": [
+        "character": [ 
+          {
           "name": "Hog Rider",
           "description": "Fast Melee troop that targets buildings and can jump over the river. He followed the echoing call of 'HOG RIDERRRRR' all the way throguh the arena doors.",
           "level": "13",
           "type": "Troop",
           "rarity": "Rare"
+          }
         ]
       ]
     }
